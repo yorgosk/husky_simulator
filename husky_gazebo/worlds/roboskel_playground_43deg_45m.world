@@ -83,12 +83,12 @@
     <model name='roboskel_playground'>
       <static>1</static>
 
-      <link name='slope43deg_30m'>
+      <link name='slope43deg_45m'>
         <collision name='collision'>
           <pose frame=''>87.25 0.0 -8 0 0.125 0</pose>
           <geometry>
             <mesh>
-              <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+              <uri>model://45m_43d_slope/meshes/slope.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -119,7 +119,7 @@
           <pose frame=''>87.25 0.0 -8 0 0.125 0</pose>
           <geometry>
             <mesh>
-              <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+              <uri>model://45m_43d_slope/meshes/slope.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -135,12 +135,12 @@
         <gravity>1</gravity>
       </link>
 
-      <link name='slope43deg_30m_1'>
+      <link name='slope43deg_45m_1'>
         <collision name='collision'>
           <pose frame=''>87.25 2 -8 0 0.125 0</pose>
           <geometry>
             <mesh>
-              <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+              <uri>model://45m_43d_slope/meshes/slope.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -171,7 +171,7 @@
           <pose frame=''>87.25 2 -8 0 0.125 0</pose>
           <geometry>
             <mesh>
-              <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+              <uri>model://45m_43d_slope/meshes/slope.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -187,12 +187,12 @@
         <gravity>1</gravity>
       </link>
 
-      <link name='slope43deg_30m_2'>
+      <link name='slope43deg_45m_2'>
         <collision name='collision'>
           <pose frame=''>87.25 -2 -8 0 0.125 0</pose>
           <geometry>
             <mesh>
-              <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+              <uri>model://45m_43d_slope/meshes/slope.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -223,7 +223,7 @@
           <pose frame=''>87.25 -2 -8 0 0.125 0</pose>
           <geometry>
             <mesh>
-              <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+              <uri>model://45m_43d_slope/meshes/slope.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -369,19 +369,19 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
 
-        <link name='slope43deg_30m'>
+        <link name='slope43deg_45m'>
           <pose frame=''>0 0 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
-        <link name='slope43deg_30m_1'>
+        <link name='slope43deg_45m_1'>
           <pose frame=''>0 0 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
-        <link name='slope43deg_30m_2'>
+        <link name='slope43deg_45m_2'>
           <pose frame=''>0 0 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>

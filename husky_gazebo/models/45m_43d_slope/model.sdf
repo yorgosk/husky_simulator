@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">
-  <model name="30m_43d_slope">
+  <model name="45m_43d_slope">
     <static>true</static>
     <link name="slope">
       <collision name="collision">
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+            <uri>model://45m_43d_slope/meshes/slope.stl</uri>
           </mesh>
         </geometry>
         <surface>
@@ -32,7 +32,7 @@
         <pose>0 0 0 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://30m_43d_slope/meshes/slope.stl</uri>
+            <uri>model://45m_43d_slope/meshes/slope.stl</uri>
           </mesh>
         </geometry>
         <material>

@@ -3,7 +3,7 @@
 <launch>
   <arg name="rulah_simulation" default="true"/>
 
-  <arg name="world_name" default="$(find husky_gazebo)/worlds/roboskel_playground_43deg_30m.world"/>
+  <arg name="world_name" default="$(find husky_gazebo)/worlds/roboskel_playground_43deg_45m.world"/>
   <arg name="3D_enabled" default="true"/>
   <include file="$(find husky_gazebo)/launch/roboskel_playground_world.launch">
 
